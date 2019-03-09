@@ -23,4 +23,4 @@
 
     [Cuckoos Nest](http://www.cuckooznest.co.uk/)
 
-  Please contribute! Simply create a [pull request](https://help.github.com/en/articles/creating-a-pull-request) with your suggestions.
+### Please contribute! Simply create a [pull request](https://help.github.com/en/articles/creating-a-pull-request) with your suggestions.
